@@ -1,0 +1,28 @@
+{
+  "name": "telegram_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node index.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot"
+  ],
+  "author": "hoverhall",
+  "license": "MIT",
+  "dependencies": {
+    "ajax": "0.0.4",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "node-telegram-bot-api": "^0.30.0",
+    "nodemon": "^1.19.1",
+    "now": "^16.1.2",
+    "pg": "^7.11.0",
+    "telegraf": "^3.30.1"
+  }
+}

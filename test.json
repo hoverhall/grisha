@@ -1,0 +1,20 @@
+{
+    "message_id": 229,
+    "from": {
+        "id": 319277027,
+        "is_bot": false,
+        "first_name": "Vlad",
+        "last_name": "Talamaniuk",
+        "username": "HoverHall",
+        "language_code": "ru"
+    },
+    "chat": {
+        "id": 319277027,
+        "first_name": "Vlad",
+        "last_name": "Talamaniuk",
+        "username": "HoverHall",
+        "type": "private"
+    },
+    "date": 1563361595,
+    "text": "sdfsdf"
+}
